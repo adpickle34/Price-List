@@ -1,3 +1,3 @@
-# Reta-Pricing
+# Price-List
 
-https://adpickle34.github.io/Reta-Pricing/
+https://adpickle34.github.io/Price-List/
